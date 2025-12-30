@@ -1,0 +1,33 @@
+# Banking Data Warehouse & Data Governance
+
+Collaborative *data engineering project* focused on the design and implementation of a *banking data warehouse, applying strong **data governance, data quality, and analytical modeling best practices* commonly used in financial institutions.
+
+This project aims to transform raw financial data into *reliable, well-structured, and analytics-ready datasets*, supporting reporting, monitoring, and decision-making.
+
+---
+
+## Project Objectives
+
+- Design a robust banking data warehouse  
+- Apply data governance and data quality principles  
+- Implement dimensional modeling for analytical use cases  
+- Ensure data traceability, consistency, and reliability  
+- Build a professional collaborative portfolio project  
+
+---
+
+## Business Context
+
+Banks handle large volumes of historical and transactional data that must be:
+- Accurate  
+- Consistent  
+- Well-documented  
+- Governed and auditable  
+
+This project simulates a real-world banking environment, where raw operational data is transformed into a structured *data warehouse*, enabling analytical workloads and regulatory reporting.
+
+---
+
+## Architecture Overview
+
+The solution follows a layered data architecture commonly adopted by banks:
